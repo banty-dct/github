@@ -1,0 +1,48 @@
+git init --> only once to initialize git
+q --> out
+
+git status --> check status of files (commited/not commited)
+git add <filename> or git add . --> add not commited files to git 
+git commit -m "initial commit" --> commit the changes
+git log --> display logs of commit
+git diff --> view the changes
+
+git branch <branch name> --> create branches
+git branch --> show branches
+
+git checkout <commit id> --> go back to that commit
+git checkout <branch name> --> go back to that branch
+git checkout . --> kill all the previous changes
+git checkout -b <branch name> --> create branch and move to branch
+
+git merge master <branch name> --> merge two branches
+
+git remote add origin <url>
+git remote -v
+
+git push -u origin<remote name> master<branch name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
