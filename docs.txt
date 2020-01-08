@@ -22,7 +22,7 @@ git remote -v
 
 git push -u origin<remote name> master<branch name>
 
-
+git commit --no-verify --> disable eslint
 
 
 
